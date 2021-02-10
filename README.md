@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-🌱 Junior Backend Developer
+🌱 <strong>Junior Backend Developer</strong>가 되기 위해 노력중인 학생입니다 🤸
 <br>
 📫 How to reach me: miinju.choi@gmail.com
 <br>
@@ -23,6 +23,8 @@
 
 
 <!--
+<br>
+🛠 Stack: C/C++, Dart(flutter), 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
