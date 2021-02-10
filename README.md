@@ -19,8 +19,12 @@
 
 <br>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=phera5432)](https://solved.ac/phera5432) ![mingdyuo's github stats](https://github-readme-stats.vercel.app/api?username=mingdyuo&show_icons=true)
+<div align=center>
+  
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=phera5432)](https://solved.ac/phera5432) 
+![mingdyuo's github stats](https://github-readme-stats.vercel.app/api?username=mingdyuo&show_icons=true)
 
+</div>
 
 <!--
 <br>
