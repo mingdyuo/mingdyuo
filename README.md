@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-🌱 <strong>Backend Developer</strong>가 되기 위해 노력중인 학생입니다 🤸
+🌱 <strong>Backend Developer</strong>가  노력중인 학생입니다 🤸
 <br>
 📫 How to reach me: miinju.choi@gmail.com
 <br>
