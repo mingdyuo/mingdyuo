@@ -14,7 +14,7 @@
 <br>
 📫 How to reach me: miinju.choi@gmail.com
 <br>
-💪🏻 Learning: Spring Boot, Java, MySQL
+💪🏻 Learning: Spring Boot, Java, MySQL, RDBMS Modeling
 </p>
 
 <br>
