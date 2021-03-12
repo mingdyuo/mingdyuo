@@ -12,11 +12,11 @@
 <p align="center">
 🌱 <strong>Backend Developer</strong>가 되고자 노력중인 학생입니다 🤸
 <br>
-📫 How to reach me: miinju.choi@gmail.com
+📫 <strong>How to reach me</strong>: miinju.choi@gmail.com
 <br>
-💪 Skills: C/C++, flutter(dart), Spring Boot, MySQL, AWS ec2, html/css
+💪 <strong>Skills</strong>: C/C++, flutter(dart), Spring Boot, MySQL, AWS ec2, html/css
 <br>
-🧐 Learning: IOCP, Modern C++, Java, RDBMS Modeling, Docker
+🧐 <strong>Learning</strong>: IOCP, Modern C++, Java, RDBMS Modeling, Docker
 </p>
 
 <br>
