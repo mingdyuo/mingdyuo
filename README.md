@@ -14,7 +14,9 @@
 <br>
 📫 How to reach me: miinju.choi@gmail.com
 <br>
-💪🏻 Learning: Spring Boot, Java, MySQL, RDBMS Modeling
+💪 Skills: C/C++, flutter(dart), Spring Boot, MySQL, AWS ec2, html/css
+<br>
+🧐 Learning: IOCP, Modern C++, Java, RDBMS Modeling, Docker
 </p>
 
 <br>
