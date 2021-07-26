@@ -14,11 +14,9 @@
 <br>
 📫 <strong>How to reach me</strong>: miinju.choi@gmail.com
 <br>
-💪 <strong>Proficient</strong>: C/C++, IOCP, Flutter(dart), MySQL, Git/Github, Linux Ubuntu, html/css
+💪 <strong>Proficient</strong>: C, C++ IOCP, Go, Flutter(dart), MySQL, Git, Linux Ubuntu, html/css
 <br>
-✍ <strong>Expereinced</strong>: Java, Python, Spring Boot, AWS, Svn, HTTP API
-<br>
-🧐 <strong>Learning</strong>: RDBMS Modeling, Docker, Hadoop
+✍ <strong>Expereinced</strong>: Spring Boot, React, MongoDB, AWS EC2/Route53, HTTP API
 </p>
 
 <br>
