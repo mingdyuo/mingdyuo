@@ -10,11 +10,11 @@
 <br>
 
 <p align="center">
-🌱 <strong>Backend Developer</strong>가 되고자 노력중인 학생입니다 🤸
+🌱 <strong>Backend Server Developer</strong>입니다 🤸
 <br>
 📫 <strong>How to reach me</strong>: miinju.choi@gmail.com
 <br>
-💪 <strong>Proficient</strong>: C, C++ IOCP, Go, Flutter(dart), MySQL, Git, Linux Ubuntu, html/css
+💪 <strong>Proficient</strong>: Go, C, C++ IOCP, Flutter(dart), MySQL, Git, Linux, html/css
 <br>
 ✍ <strong>Expereinced</strong>: Spring Boot, React, MongoDB, AWS EC2/Route53, HTTP API
 </p>
